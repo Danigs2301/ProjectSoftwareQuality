@@ -1,0 +1,501 @@
+Key,rule,Message
+AZHFJ8MWTlwiQl6exCX5,c:S1905,Remove this redundant cast.
+AZHFJ8MWTlwiQl6exCX6,c:S1905,Remove this redundant cast.
+AZHFJ8MWTlwiQl6exCXa,c:S859,cast from 'const struct xgmac_dma_chnl_config *' to 'struct xgmac_dma_chnl_config *' drops const qualifier
+AZHFJ8MWTlwiQl6exCXb,c:S859,cast from 'volatile struct xgmac_dma_tx_desc_meta *' to 'struct xgmac_dma_tx_desc_meta *' drops volatile qualifier
+AZHFJ8MWTlwiQl6exCXc,c:S859,cast from 'volatile struct xgmac_dma_rx_desc_meta *' to 'struct xgmac_dma_rx_desc_meta *' drops volatile qualifier
+AZHFJ8MXTlwiQl6exCX8,c:S5350,"Make the type of this variable a pointer-to-const. The current type of ""dma_chnl_cfg"" is ""struct xgmac_dma_chnl_config *const""."
+AZHFJ8MWTlwiQl6exCXd,c:S859,cast from 'const struct xgmac_dma_chnl_config *' to 'struct xgmac_dma_chnl_config *' drops const qualifier
+AZHFJ8MWTlwiQl6exCX7,c:S5955,"Declare the variable ""dma_chnl"" inside the loop."
+AZHFJ8MWTlwiQl6exCXe,c:S859,cast from 'volatile struct xgmac_dma_tx_desc_meta *' to 'struct xgmac_dma_tx_desc_meta *' drops volatile qualifier
+AZHFJ8MWTlwiQl6exCXf,c:S859,cast from 'volatile struct xgmac_dma_rx_desc_meta *' to 'struct xgmac_dma_rx_desc_meta *' drops volatile qualifier
+AZHFJ8MWTlwiQl6exCXg,c:S859,cast from 'const struct xgmac_mtl_config *' to 'struct xgmac_mtl_config *' drops const qualifier
+AZHFJ8MXTlwiQl6exCX9,c:S1905,Remove this redundant cast.
+AZHFJ8MXTlwiQl6exCX-,c:S1905,Remove this redundant cast.
+AZHFJ8MXTlwiQl6exCX_,c:S995,"Make the type of this parameter a pointer-to-const. The current type of ""addr"" is ""unsigned char *""."
+AZHFJ8MXTlwiQl6exCYA,c:S995,"Make the type of this parameter a pointer-to-const. The current type of ""data"" is ""struct eth_dwc_xgmac_dev_data *const""."
+AZHFJ8MWTlwiQl6exCXh,c:S859,cast from 'const struct xgmac_mac_config *' to 'struct xgmac_mac_config *' drops const qualifier
+AZHFJ8MXTlwiQl6exCYB,c:S5350,"Make the type of this variable a pointer-to-const. The current type of ""mac_cfg"" is ""struct xgmac_mac_config *const""."
+AZHFJ8MXTlwiQl6exCYC,c:S1905,Remove this redundant cast.
+AZHFJ8MXTlwiQl6exCYD,c:S1905,Remove this redundant cast.
+AZHFJ8MXTlwiQl6exCYE,c:S3776,Refactor this function to reduce its Cognitive Complexity from 33 to the 25 allowed.
+AZHFJ8MWTlwiQl6exCXi,c:S859,cast from 'const void *' to 'struct eth_dwc_xgmac_config *' drops const qualifier
+AZHFJ8MWTlwiQl6exCXj,c:S859,cast from 'const struct xgmac_dma_chnl_config *' to 'struct xgmac_dma_chnl_config *' drops const qualifier
+AZHFJ8MWTlwiQl6exCXk,c:S859,cast from 'volatile struct xgmac_dma_rx_desc_meta *' to 'struct xgmac_dma_rx_desc_meta *' drops volatile qualifier
+AZHFJ8MXTlwiQl6exCYI,c:S1905,Remove this redundant cast.
+AZHFJ8MXTlwiQl6exCYG,c:S1659,Define each identifier in a dedicated statement.
+AZHFJ8MXTlwiQl6exCYH,c:S1659,Define each identifier in a dedicated statement.
+AZHFJ8MXTlwiQl6exCYJ,c:S1905,Remove this redundant cast.
+AZHFJ8MXTlwiQl6exCYK,c:S1110,Remove these redundant parentheses.
+AZHFJ8MXTlwiQl6exCYL,c:S1905,Remove this redundant cast.
+AZHFJ8MXTlwiQl6exCYM,c:S1110,Remove these redundant parentheses.
+AZHFJ8MXTlwiQl6exCYF,c:S134,Refactor this code to not nest more than 3 if|for|do|while|switch statements.
+AZHFJ8MXTlwiQl6exCYN,c:S1905,Remove this redundant cast.
+AZHFJ8MXTlwiQl6exCYO,c:S1110,Remove these redundant parentheses.
+AZHFJ8MWTlwiQl6exCXl,c:S859,cast from 'const void *' to 'struct eth_dwc_xgmac_config *' drops const qualifier
+AZHFJ8MXTlwiQl6exCYP,c:S5350,"Make the type of this variable a pointer-to-const. The current type of ""dma_chnl_cfg"" is ""struct xgmac_dma_chnl_config *""."
+AZHFJ8MWTlwiQl6exCXm,c:S859,cast from 'const struct xgmac_dma_chnl_config *' to 'struct xgmac_dma_chnl_config *' drops const qualifier
+AZHFJ8MWTlwiQl6exCXn,c:S859,cast from 'volatile struct xgmac_dma_tx_desc_meta *' to 'struct xgmac_dma_tx_desc_meta *' drops volatile qualifier
+AZHFJ8MXTlwiQl6exCYQ,c:S1905,Remove this redundant cast.
+AZHFJ8MXTlwiQl6exCYR,c:S1905,Remove this redundant cast.
+AZHFJ8MXTlwiQl6exCYS,c:S1905,Remove this redundant cast.
+AZHFJ8MWTlwiQl6exCXo,c:S859,cast from 'const void *' to 'struct eth_dwc_xgmac_config *' drops const qualifier
+AZHFJ8MWTlwiQl6exCXp,c:S859,cast from 'const void *' to 'struct eth_dwc_xgmac_config *' drops const qualifier
+AZHFJ8MXTlwiQl6exCYT,c:S1905,Remove this redundant cast.
+AZHFJ8MXTlwiQl6exCYU,c:S5350,"Make the type of this variable a pointer-to-const. The current type of ""dev_data"" is ""struct eth_dwc_xgmac_dev_data *""."
+AZHFJ8MXTlwiQl6exCYV,c:S1905,Remove this redundant cast.
+AZHFJ8MWTlwiQl6exCXq,c:S859,cast from 'const void *' to 'struct eth_dwc_xgmac_config *' drops const qualifier
+AZHFJ8MXTlwiQl6exCYW,c:S995,"Make the type of this parameter a pointer-to-const. The current type of ""state"" is ""struct phy_link_state *""."
+AZHFJ8MXTlwiQl6exCYX,c:S995,"Make the type of this parameter a pointer-to-const. The current type of ""user_data"" is ""void *""."
+AZHFJ8MXTlwiQl6exCYY,c:S3458,"Remove this redundant ""case"" clause."
+AZHFJ8MWTlwiQl6exCXr,c:S859,cast from 'const void *' to 'struct eth_dwc_xgmac_config *' drops const qualifier
+AZHFJ8MWTlwiQl6exCXs,c:S859,cast from 'const struct xgmac_dma_chnl_config *' to 'struct xgmac_dma_chnl_config *' drops const qualifier
+AZHFJ8MWTlwiQl6exCXt,c:S859,cast from 'volatile struct xgmac_dma_tx_desc_meta *' to 'struct xgmac_dma_tx_desc_meta *' drops volatile qualifier
+AZHFJ8MWTlwiQl6exCXu,c:S859,cast from 'volatile struct xgmac_dma_rx_desc_meta *' to 'struct xgmac_dma_rx_desc_meta *' drops volatile qualifier
+AZHFJ8MXTlwiQl6exCYZ,c:S924,"Reduce the number of nested ""break"" statements from 2 to 1 authorized."
+AZHFJ8MXTlwiQl6exCYa,c:S1905,Remove this redundant cast.
+AZHFJ8MXTlwiQl6exCYb,c:S1905,Remove this redundant cast.
+AZHFJ8MWTlwiQl6exCXv,c:S859,cast from 'const void *' to 'struct eth_dwc_xgmac_config *' drops const qualifier
+AZHFJ8MWTlwiQl6exCXw,c:S859,cast from 'const struct device *' to 'void *' drops const qualifier
+AZHFJ8MWTlwiQl6exCXx,c:S859,cast from 'const void *' to 'struct eth_dwc_xgmac_config *' drops const qualifier
+AZHFJ8MWTlwiQl6exCXy,c:S859,cast from 'const void *' to 'struct eth_dwc_xgmac_config *' drops const qualifier
+AZHFJ8MXTlwiQl6exCYc,c:S1659,Define each identifier in a dedicated statement.
+AZHFJ8MWTlwiQl6exCXz,c:S859,cast from 'const void *' to 'struct eth_dwc_xgmac_config *' drops const qualifier
+AZHFJ8MWTlwiQl6exCX0,c:S859,cast from 'const struct xgmac_dma_chnl_config *' to 'struct xgmac_dma_chnl_config *' drops const qualifier
+AZHFJ8MXTlwiQl6exCYd,c:S1659,Define each identifier in a dedicated statement.
+AZHFJ8MWTlwiQl6exCX1,c:S859,cast from 'volatile struct xgmac_dma_tx_desc_meta *' to 'struct xgmac_dma_tx_desc_meta *' drops volatile qualifier
+AZHFJ8MXTlwiQl6exCYe,c:S1905,Remove this redundant cast.
+AZHFJ8MXTlwiQl6exCYf,c:S1905,Remove this redundant cast.
+AZHFJ8MXTlwiQl6exCYg,c:S1905,Remove this redundant cast.
+AZHFJ8MXTlwiQl6exCYh,c:S1905,Remove this redundant cast.
+AZHFJ8MXTlwiQl6exCYi,c:S1905,Remove this redundant cast.
+AZHFJ8MXTlwiQl6exCYj,c:S995,"Make the type of this parameter a pointer-to-const. The current type of ""addr"" is ""unsigned char *""."
+AZHFJ8MXTlwiQl6exCYk,c:S3776,Refactor this function to reduce its Cognitive Complexity from 28 to the 25 allowed.
+AZHFJ8MWTlwiQl6exCX2,c:S859,cast from 'const void *' to 'struct eth_dwc_xgmac_config *' drops const qualifier
+AZHFJ8MWTlwiQl6exCX3,c:S859,cast from 'const unsigned char *' to 'unsigned char *' drops const qualifier
+AZHFJ8MWTlwiQl6exCX4,c:S859,cast from 'const unsigned char *' to 'unsigned char *' drops const qualifier
+AZHFJ8MXTlwiQl6exCYl,c:S5350,"Make the type of this variable a pointer-to-const. The current type of ""dev_data"" is ""struct eth_dwc_xgmac_dev_data *""."
+AZHFJ8L-TlwiQl6exCXS,c:S3687,"Check if the usage of the type ""volatile unsigned short"" is really appropriate here (for inter-thread synchronization, atomic types are more suited)."
+AZHFJ8L-TlwiQl6exCXT,c:S3687,"Check if the usage of the type ""volatile unsigned long"" is really appropriate here (for inter-thread synchronization, atomic types are more suited)."
+AZHFJ8L-TlwiQl6exCXU,c:S3687,"Check if the usage of the type ""volatile unsigned short"" is really appropriate here (for inter-thread synchronization, atomic types are more suited)."
+AZHFJ8L-TlwiQl6exCXV,c:S3687,"Check if the usage of the type ""volatile unsigned long"" is really appropriate here (for inter-thread synchronization, atomic types are more suited)."
+AZHFJ8L-TlwiQl6exCXZ,c:S125,Remove the commented out code.
+AZHFJ8L-TlwiQl6exCXW,c:S3687,"Check if the usage of the type ""volatile unsigned int"" is really appropriate here (for inter-thread synchronization, atomic types are more suited)."
+AZHFJ8L-TlwiQl6exCXX,c:S3687,"Check if the usage of the type ""volatile unsigned int"" is really appropriate here (for inter-thread synchronization, atomic types are more suited)."
+AZHFJ8L-TlwiQl6exCXY,c:S3687,"Check if the usage of the type ""volatile unsigned int"" is really appropriate here (for inter-thread synchronization, atomic types are more suited)."
+AZHFJ-VaTlwiQl6exDo6,c:S1905,Remove this redundant cast.
+AZHFJ-VaTlwiQl6exDo3,c:S859,cast from 'const void *' to 'struct mdio_dwcxgmac_dev_config *' drops const qualifier
+AZHFJ-VaTlwiQl6exDo7,c:S1659,Define each identifier in a dedicated statement.
+AZHFJ-VaTlwiQl6exDo8,c:S1905,Remove this redundant cast.
+AZHFJ-VaTlwiQl6exDo5,c:S1481,unused variable 'cfg'
+AZHFJ-VaTlwiQl6exDo4,c:S859,cast from 'const void *' to 'struct mdio_dwcxgmac_dev_config *' drops const qualifier
+AZHFJ-VaTlwiQl6exDo9,c:S1905,Remove this redundant cast.
+AZHFJ-MoTlwiQl6exDks,c:S134,Refactor this code to not nest more than 3 if|for|do|while|switch statements.
+AZHFJ-MoTlwiQl6exDkt,c:S995,"Make the type of this parameter a pointer-to-const. The current type of ""sys"" is ""void *""."
+AZHFJ-LaTlwiQl6exDji,c:S3646,Declare this variable in a separate statement.
+AZHFJ-LaTlwiQl6exDjh,c:S1135,"Complete the task associated to this ""TODO"" comment."
+AZHFJ-LaTlwiQl6exDjj,c:S995,"Make the type of this parameter a pointer-to-const. The current type of ""sys"" is ""void *""."
+AZHFJ-LgTlwiQl6exDjk,c:S954,Move this #include directive to the top of the file.
+AZHFJ-LgTlwiQl6exDjl,c:S995,"Make the type of this parameter a pointer-to-const. The current type of ""sys"" is ""void *""."
+AZHFJ-LtTlwiQl6exDjo,c:S1135,"Complete the task associated to this ""TODO"" comment."
+AZHFJ-LtTlwiQl6exDjq,c:S954,Move this #include directive to the top of the file.
+AZHFJ-LtTlwiQl6exDjp,c:S3646,Declare this variable in a separate statement.
+AZHFJ-QsTlwiQl6exDm8,c:S3646,Declare this variable in a separate statement.
+AZHFJ-QsTlwiQl6exDm9,c:S995,"Make the type of this parameter a pointer-to-const. The current type of ""sys"" is ""void *""."
+AZHFKEqFTlwiQl6exMw3,c:S995,"Make the type of this parameter a pointer-to-const. The current type of ""mgr"" is ""struct onoff_manager *""."
+AZHFKEqFTlwiQl6exMw4,c:S995,"Make the type of this parameter a pointer-to-const. The current type of ""cli"" is ""struct onoff_client *""."
+AZHFKEqFTlwiQl6exMw5,c:S936,"Either add a parameter list or the ""&"" operator to this use of ""sample_notify_cb""."
+AZHFJ-G5TlwiQl6exDd1,c:S108,"Fill this compound statement, remove it, or add a nested comment explaining why it is empty."
+AZHFJ-G5TlwiQl6exDd2,c:S5350,"Make the type of this variable a pointer-to-const. The current type of ""priv"" is ""struct rpi_pico_data *""."
+AZHFJ-G5TlwiQl6exDd3,c:S995,"Make the type of this parameter a pointer-to-const. The current type of ""cfg"" is ""struct udc_ep_config *const""."
+AZHFJ-G5TlwiQl6exDd4,c:S995,"Make the type of this parameter a pointer-to-const. The current type of ""cfg"" is ""struct udc_ep_config *const""."
+AZHFJ-G6TlwiQl6exDd7,c:S1854,Value stored to 'err' is never read
+AZHFJ-G5TlwiQl6exDd5,c:S995,"Make the type of this parameter a pointer-to-const. The current type of ""arg"" is ""void *const""."
+AZHFJ-G6TlwiQl6exDd6,c:S1172,"Remove the unused parameter ""dev""."
+AZHFJ8GsTlwiQl6exCVk,c:S995,"Make the type of this parameter a pointer-to-const. The current type of ""argv"" is ""char *""."
+AZHFJ8YMTlwiQl6exCff,c:S859,cast from 'const unsigned char *' to 'unsigned char *' drops const qualifier
+AZHFKH1CTlwiQl6exQlh,c:S3776,Refactor this function to reduce its Cognitive Complexity from 32 to the 25 allowed.
+AZHFKH1CTlwiQl6exQli,c:S134,Refactor this code to not nest more than 3 if|for|do|while|switch statements.
+AZHFKH1CTlwiQl6exQlk,c:S824,"Move this function declaration outside of this block scope, or if the intent was to declare a variable, use a syntax that avoids the most vexing parse."
+AZHFJ87GTlwiQl6exCy9,c:S954,"Move all #include directives to the very top of the file, before any code."
+AZHFJ8-NTlwiQl6exC09,c:S954,"Move all #include directives to the very top of the file, before any code."
+AZHFJ9AjTlwiQl6exC2d,c:S954,"Move all #include directives to the very top of the file, before any code."
+AZHFJ8_vTlwiQl6exC1x,c:S954,"Move all #include directives to the very top of the file, before any code."
+AZHFJ878TlwiQl6exCz4,c:S936,"Either add a parameter list or the ""&"" operator to this use of ""spi_rtio_iodev_default_submit""."
+AZHFJ9BITlwiQl6exC2w,c:S5350,"Make the type of this variable a pointer-to-const. The current type of ""dt_spec"" is ""struct spi_dt_spec *""."
+AZHFJ9BITlwiQl6exC2z,c:S1854,Value stored to 'dev' during its initialization is never read
+AZHFJ9BITlwiQl6exC2u,c:S859,cast from 'const unsigned char *' to 'unsigned char *' drops const qualifier
+AZHFJ9BITlwiQl6exC2v,c:S859,cast from 'const unsigned char *' to 'unsigned char *' drops const qualifier
+AZHFJ9BITlwiQl6exC2x,c:S5350,"Make the type of this variable a pointer-to-const. The current type of ""tx_buf_ptr"" is ""struct spi_buf_set *""."
+AZHFJ9BITlwiQl6exC2y,c:S5350,"Make the type of this variable a pointer-to-const. The current type of ""rx_buf_ptr"" is ""struct spi_buf_set *""."
+AZHFKGSETlwiQl6exO-l,c:S1659,Define each identifier in a dedicated statement.
+AZHFKGSETlwiQl6exO-m,c:S1659,Define each identifier in a dedicated statement.
+AZHFKGSETlwiQl6exO-n,c:S1659,Define each identifier in a dedicated statement.
+AZHFKGSETlwiQl6exO-o,c:S1659,Define each identifier in a dedicated statement.
+AZHFKGSETlwiQl6exO-p,c:S1659,Define each identifier in a dedicated statement.
+AZHFKGSETlwiQl6exO-q,c:S1659,Define each identifier in a dedicated statement.
+AZHFKGSETlwiQl6exO-r,c:S1659,Define each identifier in a dedicated statement.
+AZHFKGSETlwiQl6exO-s,c:S1659,Define each identifier in a dedicated statement.
+AZHFKGSETlwiQl6exO-u,c:S1659,Define each identifier in a dedicated statement.
+AZHFKGSETlwiQl6exO-v,c:S1659,Define each identifier in a dedicated statement.
+AZHFKGSETlwiQl6exO-w,c:S1659,Define each identifier in a dedicated statement.
+AZHFKGSETlwiQl6exO-y,c:S1659,Define each identifier in a dedicated statement.
+AZHFKGSETlwiQl6exO-0,c:S1659,Define each identifier in a dedicated statement.
+AZHFKGSETlwiQl6exO-1,c:S1659,Define each identifier in a dedicated statement.
+AZHFKGSETlwiQl6exO-2,c:S1659,Define each identifier in a dedicated statement.
+AZHFKGSETlwiQl6exO-3,c:S1659,Define each identifier in a dedicated statement.
+AZHFKGSETlwiQl6exO-5,c:S1659,Define each identifier in a dedicated statement.
+AZHFKB86TlwiQl6exHH7,c:S1172,"Remove the unused parameter ""conn""."
+AZHFKB86TlwiQl6exHH8,c:S995,"Make the type of this parameter a pointer-to-const. The current type of ""conn"" is ""struct bt_conn *""."
+AZHFKGWETlwiQl6exPEC,c:S859,cast from 'const char *' to 'unsigned char *' drops const qualifier
+AZHFKGXdTlwiQl6exPHG,c:S1172,"Remove the unused parameter ""data""."
+AZHFKGXdTlwiQl6exPHH,c:S1172,"Remove the unused parameter ""user_data""."
+AZHFKGXdTlwiQl6exPHI,c:S995,"Make the type of this parameter a pointer-to-const. The current type of ""data"" is ""struct bt_data *""."
+AZHFKGXdTlwiQl6exPHJ,c:S995,"Make the type of this parameter a pointer-to-const. The current type of ""user_data"" is ""void *""."
+AZHFKGYhTlwiQl6exPHr,c:S954,Move these 4 #include directives to the top of the file.
+AZHFKGWETlwiQl6exPEA,c:S859,cast from 'const char *' to 'unsigned char *' drops const qualifier
+AZHFKGWETlwiQl6exPEB,c:S859,cast from 'const char *' to 'unsigned char *' drops const qualifier
+AZHFKIgzTlwiQl6exRF1,python:S1192,Define a constant instead of duplicating this literal 'samples/drivers/led_strip/README' 4 times.
+AZHFKILjTlwiQl6exQ0J,python:S3776,Refactor this function to reduce its Cognitive Complexity from 29 to the 15 allowed.
+AZHFJ8YGTlwiQl6exCfe,c:S995,"Make the type of this parameter a pointer-to-const. The current type of ""iodev_sqe"" is ""struct rtio_iodev_sqe *""."
+AZHFJ8YGTlwiQl6exCfc,c:S859,cast from 'const unsigned char *' to 'unsigned char *' drops const qualifier
+AZHFJ8YGTlwiQl6exCfd,c:S859,cast from 'const unsigned char *' to 'unsigned char *' drops const qualifier
+AZHFKAZ1TlwiQl6exFUK,cpp:S5421,Global variables should be const.
+AZHFKAZ1TlwiQl6exFUL,cpp:S1172,"Remove the unused parameter ""target"", make it unnamed, or declare it ""[[maybe_unused]]""."
+AZHFKAZ1TlwiQl6exFUM,cpp:S1172,"Remove the unused parameter ""parent"", make it unnamed, or declare it ""[[maybe_unused]]""."
+AZHFKAZ1TlwiQl6exFUN,cpp:S1172,"Remove the unused parameter ""dev"", make it unnamed, or declare it ""[[maybe_unused]]""."
+AZHFKAZvTlwiQl6exFTw,cpp:S995,"Make the type of this parameter a pointer-to-const. The current type of ""fixture"" is ""void *""."
+AZHFKAZvTlwiQl6exFUJ,cpp:S5008,"Replace this use of ""void *"" with a more meaningful type."
+AZHFKAZvTlwiQl6exFTx,cpp:S1116,"Modify the macro definition so that it needs to be followed by a semicolon, or remove this empty statement."
+AZHFKAZvTlwiQl6exFTy,cpp:S4962,"Use the ""nullptr"" literal."
+AZHFKAZvTlwiQl6exFTz,cpp:S4962,"Use the ""nullptr"" literal."
+AZHFKAZvTlwiQl6exFT0,cpp:S5945,"Use ""std::string"" instead of a C-style char array."
+AZHFKAZvTlwiQl6exFT1,cpp:S995,"Make the type of this parameter a pointer-to-const. The current type of ""msgs"" is ""struct i2c_msg *""."
+AZHFKAZvTlwiQl6exFT2,cpp:S4962,"Use the ""nullptr"" literal."
+AZHFKAZvTlwiQl6exFT3,cpp:S5945,"Use ""std::string"" instead of a C-style char array."
+AZHFKAZvTlwiQl6exFT4,cpp:S995,"Make the type of this parameter a pointer-to-const. The current type of ""msgs"" is ""struct i2c_msg *""."
+AZHFKAZvTlwiQl6exFT5,cpp:S5945,"Use ""std::string"" instead of a C-style char array."
+AZHFKAZvTlwiQl6exFT6,cpp:S5945,"Use ""std::string"" instead of a C-style char array."
+AZHFKAZvTlwiQl6exFT7,cpp:S5945,"Use ""std::string"" instead of a C-style char array."
+AZHFKAZvTlwiQl6exFT8,cpp:S5945,"Use ""std::string"" instead of a C-style char array."
+AZHFKAZvTlwiQl6exFT9,cpp:S5945,"Use ""std::string"" instead of a C-style char array."
+AZHFKAZvTlwiQl6exFT-,cpp:S5945,"Use ""std::string"" instead of a C-style char array."
+AZHFKAZvTlwiQl6exFT_,cpp:S5945,"Use ""std::string"" instead of a C-style char array."
+AZHFKAZvTlwiQl6exFUA,cpp:S5945,"Use ""std::string"" instead of a C-style char array."
+AZHFKAZvTlwiQl6exFUC,cpp:S5945,"Use ""std::array"" or ""std::vector"" instead of a C-style array."
+AZHFKAZvTlwiQl6exFUD,cpp:S5945,"Use ""std::string"" instead of a C-style char array."
+AZHFKAZvTlwiQl6exFUE,cpp:S5945,"Use ""std::array"" or ""std::vector"" instead of a C-style array."
+AZHFKAZvTlwiQl6exFUF,cpp:S995,"Make the type of this parameter a pointer-to-const. The current type of ""msgs"" is ""struct i2c_msg *""."
+AZHFKAZvTlwiQl6exFUG,cpp:S5945,"Use ""std::array"" or ""std::vector"" instead of a C-style array."
+AZHFKAZvTlwiQl6exFUH,cpp:S5945,"Use ""std::array"" or ""std::vector"" instead of a C-style array."
+AZHFKAZvTlwiQl6exFUB,cpp:S5566,"Change this raw for-loop to a range for-loop or an ""std::ranges::for_each""."
+AZHFKAZvTlwiQl6exFUI,cpp:S6022,"Use ""std::byte"" for byte-oriented data manipulation."
+AZHFJ889TlwiQl6exC0m,c:S954,Move this #include directive to the top of the file.
+AZHFJ889TlwiQl6exC0n,c:S1172,"Remove the unused parameter ""config""."
+AZHFJ9mrTlwiQl6exDLP,c:S954,"Move all #include directives to the very top of the file, before any code."
+AZHFJ9mrTlwiQl6exDLQ,c:S995,"Make the type of this parameter a pointer-to-const. The current type of ""req"" is ""void *""."
+AZHFJ9mrTlwiQl6exDLO,c:S859,cast from 'const struct max32_perclk *' to 'void *' drops const qualifier
+AZHFKBGGTlwiQl6exF76,c:S995,"Make the type of this parameter a pointer-to-const. The current type of ""user_data"" is ""void *""."
+AZHFKBGGTlwiQl6exF77,c:S995,"Make the type of this parameter a pointer-to-const. The current type of ""data"" is ""struct mbox_msg *""."
+AZHFKBGGTlwiQl6exF78,c:S995,"Make the type of this parameter a pointer-to-const. The current type of ""data"" is ""struct mbox_msg *""."
+AZHFKBGGTlwiQl6exF79,c:S1659,Define each identifier in a dedicated statement.
+AZHFKBEZTlwiQl6exF7C,c:S1172,"Remove the unused parameter ""id""."
+AZHFKBEZTlwiQl6exF7D,c:S1172,"Remove the unused parameter ""expire_time""."
+AZHFJ_iHTlwiQl6exEhn,c:S1172,"Remove the unused parameter ""dev""."
+AZHFJ_iHTlwiQl6exEhl,c:S859,cast from 'const struct rtc_time *' to 'struct rtc_time *' drops const qualifier
+AZHFJ_iHTlwiQl6exEho,c:S1172,"Remove the unused parameter ""dev""."
+AZHFJ_iHTlwiQl6exEhm,c:S859,cast from 'const struct rtc_time *' to 'struct rtc_time *' drops const qualifier
+AZHFKIgzTlwiQl6exRF2,python:S1192,Define a constant instead of duplicating this literal 'connectivity/bluetooth/bluetooth-qual' 15 times.
+AZHFKIgzTlwiQl6exRF0,python:S1192,Define a constant instead of duplicating this literal 'connectivity/usb/device/usb_device' 4 times.
+AZHFKFKATlwiQl6exNNa,c:S3776,Refactor this function to reduce its Cognitive Complexity from 42 to the 25 allowed.
+AZHFJ-I9TlwiQl6exDgk,c:S3687,"Check if the usage of the type ""volatile unsigned int[64]"" is really appropriate here (for inter-thread synchronization, atomic types are more suited)."
+AZHFJ-I9TlwiQl6exDgl,c:S3687,"Check if the usage of the type ""volatile unsigned int"" is really appropriate here (for inter-thread synchronization, atomic types are more suited)."
+AZHFJ-HsTlwiQl6exDeW,c:S1820,"Refactor this structure so it has no more than 20 fields, rather than the 22 it currently has."
+AZHFJ-HsTlwiQl6exDev,c:S5350,"Make the type of this variable a pointer-to-const. The current type of ""priv"" is ""struct udc_dwc2_data *const""."
+AZHFJ-HsTlwiQl6exDew,c:S5350,"Make the type of this variable a pointer-to-const. The current type of ""backup"" is ""struct dwc2_reg_backup *""."
+AZHFJ-HsTlwiQl6exDex,c:S5350,"Make the type of this variable a pointer-to-const. The current type of ""priv"" is ""struct udc_dwc2_data *const""."
+AZHFJ-HsTlwiQl6exDey,c:S5350,"Make the type of this variable a pointer-to-const. The current type of ""backup"" is ""struct dwc2_reg_backup *""."
+AZHFJ-HsTlwiQl6exDez,c:S3776,Refactor this function to reduce its Cognitive Complexity from 35 to the 25 allowed.
+AZHFJ-HsTlwiQl6exDe0,c:S1659,Define each identifier in a dedicated statement.
+AZHFKBgZTlwiQl6exGVo,c:S1301,"Replace this ""switch"" statement by ""if"" statements to increase readability."
+AZHFKBgZTlwiQl6exGVp,c:S1301,"Replace this ""switch"" statement by ""if"" statements to increase readability."
+AZHFKGXVTlwiQl6exPGy,c:S995,"Make the type of this parameter a pointer-to-const. The current type of ""qos"" is ""struct bt_audio_codec_qos *""."
+AZHFKGXVTlwiQl6exPG1,c:S3776,Refactor this function to reduce its Cognitive Complexity from 31 to the 25 allowed.
+AZHFKGXVTlwiQl6exPG2,c:S1066,"Merge this ""if"" statement with the enclosing one."
+AZHFKGXVTlwiQl6exPG3,c:S1066,"Merge this ""if"" statement with the enclosing one."
+AZHFKGBzTlwiQl6exOVG,c:S3776,Refactor this function to reduce its Cognitive Complexity from 134 to the 25 allowed.
+AZHFKGfQTlwiQl6exPPQ,c:S3776,Refactor this function to reduce its Cognitive Complexity from 27 to the 25 allowed.
+AZHFJ_qfTlwiQl6exEmE,c:S5350,"Make the type of this variable a pointer-to-const. The current type of ""data"" is ""struct gpio_stepper_data *""."
+AZHFJ_qfTlwiQl6exEmF,c:S5350,"Make the type of this variable a pointer-to-const. The current type of ""data"" is ""struct gpio_stepper_data *""."
+AZHFJ_qfTlwiQl6exEmG,c:S5350,"Make the type of this variable a pointer-to-const. The current type of ""data"" is ""struct gpio_stepper_data *""."
+AZHFKBHxTlwiQl6exF92,c:S995,"Make the type of this parameter a pointer-to-const. The current type of ""f"" is ""void *""."
+AZHFKBHxTlwiQl6exF93,c:S5350,"Make the type of this variable a pointer-to-const. The current type of ""fixture"" is ""struct stepper_fixture *""."
+AZHFKIL8TlwiQl6exQ0l,python:S3776,Refactor this function to reduce its Cognitive Complexity from 19 to the 15 allowed.
+AZHFKFjzTlwiQl6exNtZ,c:S134,Refactor this code to not nest more than 3 if|for|do|while|switch statements.
+AZHFKFbYTlwiQl6exNjH,c:S912,Remove any side effects from right hand operands of logical && operator.
+AZHFKFbYTlwiQl6exNjN,c:S912,Remove any side effects from right hand operands of logical && operator.
+AZHFKFbYTlwiQl6exNjU,c:S912,Remove any side effects from right hand operands of logical && operator.
+AZHFKFbYTlwiQl6exNjb,c:S912,Remove any side effects from right hand operands of logical && operator.
+AZHFKFbYTlwiQl6exNjc,c:S912,Remove any side effects from right hand operands of logical && operator.
+AZHFKFbYTlwiQl6exNjV,c:S912,Remove any side effects from right hand operands of logical || operator.
+AZHFKFbYTlwiQl6exNjf,c:S3491,"Remove this useless sequence of pointer operators: ""*&""."
+AZHFKFfgTlwiQl6exNoK,c:S3776,Refactor this function to reduce its Cognitive Complexity from 27 to the 25 allowed.
+AZHFKFfgTlwiQl6exNoL,c:S3358,Extract this nested conditional operator into an independent statement.
+AZHFKFfgTlwiQl6exNoM,c:S3358,Extract this nested conditional operator into an independent statement.
+AZHFKFfgTlwiQl6exNoN,c:S3358,Extract this nested conditional operator into an independent statement.
+AZHFKFfgTlwiQl6exNoO,c:S3358,Extract this nested conditional operator into an independent statement.
+AZHFKFfgTlwiQl6exNoP,c:S3358,Extract this nested conditional operator into an independent statement.
+AZHFKFfgTlwiQl6exNoQ,c:S3358,Extract this nested conditional operator into an independent statement.
+AZHFKFfgTlwiQl6exNoR,c:S3358,Extract this nested conditional operator into an independent statement.
+AZHFKHCaTlwiQl6exP90,c:S5955,"Declare the variable ""i"" inside the loop."
+AZHFKHCaTlwiQl6exP92,c:S995,"Make the type of this parameter a pointer-to-const. The current type of ""ext"" is ""struct llext *""."
+AZHFKHCaTlwiQl6exP91,c:S5955,"Declare the variable ""i"" inside the loop."
+AZHFKHCaTlwiQl6exP93,c:S3776,Refactor this function to reduce its Cognitive Complexity from 36 to the 25 allowed.
+AZHFKHCaTlwiQl6exP94,c:S134,Refactor this code to not nest more than 3 if|for|do|while|switch statements.
+AZHFKHCaTlwiQl6exP98,c:S3776,Refactor this function to reduce its Cognitive Complexity from 65 to the 25 allowed.
+AZHFKHCaTlwiQl6exP9-,c:S134,Refactor this code to not nest more than 3 if|for|do|while|switch statements.
+AZHFKHCETlwiQl6exP9B,c:S3776,Refactor this function to reduce its Cognitive Complexity from 59 to the 25 allowed.
+AZHFKG0LTlwiQl6exPte,c:S3776,Refactor this function to reduce its Cognitive Complexity from 40 to the 25 allowed.
+AZHFKF8STlwiQl6exOL2,c:S1134,"Take the required action to fix the issue indicated by this ""FIXME"" comment."
+AZHFKF8STlwiQl6exOL5,c:S824,"Move this function declaration outside of this block scope, or if the intent was to declare a variable, use a syntax that avoids the most vexing parse."
+AZHFKF8STlwiQl6exOL3,c:S1135,"Complete the task associated to this ""TODO"" comment."
+AZHFKF8STlwiQl6exOL4,c:S1135,"Complete the task associated to this ""TODO"" comment."
+AZHFKF8STlwiQl6exOL6,c:S1659,Define each identifier in a dedicated statement.
+AZHFKF8STlwiQl6exOL7,c:S1659,Define each identifier in a dedicated statement.
+AZHFKF7hTlwiQl6exOK2,c:S1659,Define each identifier in a dedicated statement.
+AZHFKF7hTlwiQl6exOK3,c:S1659,Define each identifier in a dedicated statement.
+AZHFKF7hTlwiQl6exOK5,c:S125,Remove the commented out code.
+AZHFKF7NTlwiQl6exOKf,c:S959,Remove this #undef directive.
+AZHFKGI1TlwiQl6exOiq,c:S1134,"Take the required action to fix the issue indicated by this ""FIXME"" comment."
+AZHFKIKOTlwiQl6exQyx,python:S3776,Refactor this function to reduce its Cognitive Complexity from 21 to the 15 allowed.
+AZHFJ7mtTlwiQl6exCHt,c:S1301,"Replace this ""switch"" statement by ""if"" statements to increase readability."
+AZHFJ7mtTlwiQl6exCHu,c:S1172,"Remove the unused parameter ""chan""."
+AZHFJ7mtTlwiQl6exCHv,c:S5350,"Make the type of this variable a pointer-to-const. The current type of ""cal"" is ""struct bmp180_cal_data *""."
+AZHFJ7mtTlwiQl6exCHw,c:S995,"Make the type of this parameter a pointer-to-const. The current type of ""data"" is ""struct bmp180_data *""."
+AZHFJ7mtTlwiQl6exCHx,c:S5350,"Make the type of this variable a pointer-to-const. The current type of ""cal"" is ""struct bmp180_cal_data *""."
+AZHFJ7mtTlwiQl6exCHy,c:S1905,Remove this redundant cast.
+AZHFJ7mtTlwiQl6exCHz,c:S1905,Remove this redundant cast.
+AZHFJ7mtTlwiQl6exCH0,c:S1905,Remove this redundant cast.
+AZHFJ7mtTlwiQl6exCH1,c:S1172,"Remove the unused parameter ""dev""."
+AZHFJ7mtTlwiQl6exCH2,c:S1172,"Remove the unused parameter ""action""."
+AZHFKITNTlwiQl6exQ4r,python:S3358,Extract this nested conditional expression into an independent statement.
+AZHFKD52TlwiQl6exMF-,cpp:S5205,"Replace this function pointer with a template parameter or a ""std::function""."
+AZHFKD52TlwiQl6exMGf,cpp:S5008,"Replace this use of ""void *"" with a more meaningful type."
+AZHFKD52TlwiQl6exMGg,cpp:S5008,"Replace this use of ""void *"" with a more meaningful type."
+AZHFKAaATlwiQl6exFUi,c:S1172,"Remove the unused parameter ""r""."
+AZHFKAaATlwiQl6exFUj,c:S1172,"Remove the unused parameter ""sqe""."
+AZHFKAaATlwiQl6exFUk,c:S995,"Make the type of this parameter a pointer-to-const. The current type of ""r"" is ""struct rtio *""."
+AZHFKIhiTlwiQl6exRGG,javascript:S2703,"Add the ""let"", ""const"" or ""var"" keyword to this declaration of ""registerDoxygenTooltip"" to make it explicit."
+AZHFKIhiTlwiQl6exRGH,javascript:S2004,Refactor this code to not nest functions more than 4 levels deep.
+AZHFJ_TBTlwiQl6exEYI,c:S1659,Define each identifier in a dedicated statement.
+AZHFJ_TBTlwiQl6exEYJ,c:S1854,Value stored to 'rc' is never read
+AZHFJ_TBTlwiQl6exEYK,c:S1854,Value stored to 'rc' is never read
+AZHFJ_TBTlwiQl6exEYM,c:S1854,Value stored to 'rc' is never read
+AZHFKD41TlwiQl6exMEF,c:S1659,Define each identifier in a dedicated statement.
+AZHFKG0vTlwiQl6exPtm,c:S1172,"Remove the unused parameter ""conn""."
+AZHFKG0vTlwiQl6exPtn,c:S1172,"Remove the unused parameter ""attr""."
+AZHFKG0vTlwiQl6exPtq,c:S995,"Make the type of this parameter a pointer-to-const. The current type of ""conn"" is ""struct bt_conn *""."
+AZHFKG0vTlwiQl6exPto,c:S1172,"Remove the unused parameter ""offset""."
+AZHFKG0vTlwiQl6exPtp,c:S1172,"Remove the unused parameter ""flags""."
+AZHFKG0vTlwiQl6exPtl,c:S859,cast from 'const void *' to 'unsigned char *' drops const qualifier
+AZHFJ_NjTlwiQl6exETh,c:S1905,Remove this redundant cast.
+AZHFJ9fMTlwiQl6exDGH,c:S1659,Define each identifier in a dedicated statement.
+AZHFJ9fMTlwiQl6exDGI,c:S1659,Define each identifier in a dedicated statement.
+AZHFJ9fMTlwiQl6exDGE,c:S859,cast from 'const struct device *' to 'void *' drops const qualifier
+AZHFJ9fMTlwiQl6exDGJ,c:S1172,"Remove the unused parameter ""dma_dev""."
+AZHFJ9fMTlwiQl6exDGK,c:S1172,"Remove the unused parameter ""channel""."
+AZHFJ9fMTlwiQl6exDGL,c:S995,"Make the type of this parameter a pointer-to-const. The current type of ""arg"" is ""void *""."
+AZHFJ9fMTlwiQl6exDGF,c:S1481,unused variable 'dev_cfg'
+AZHFJ9fMTlwiQl6exDGS,c:S1854,Value stored to 'dev_cfg' during its initialization is never read
+AZHFJ9fMTlwiQl6exDGM,c:S1172,"Remove the unused parameter ""dma_dev""."
+AZHFJ9fMTlwiQl6exDGN,c:S1172,"Remove the unused parameter ""channel""."
+AZHFJ9fMTlwiQl6exDGO,c:S995,"Make the type of this parameter a pointer-to-const. The current type of ""arg"" is ""void *""."
+AZHFJ9fMTlwiQl6exDGG,c:S1481,unused variable 'dev_cfg'
+AZHFJ9fMTlwiQl6exDGT,c:S1854,Value stored to 'dev_cfg' during its initialization is never read
+AZHFJ9fMTlwiQl6exDGP,c:S3776,Refactor this function to reduce its Cognitive Complexity from 67 to the 25 allowed.
+AZHFJ9fMTlwiQl6exDGQ,c:S5350,"Make the type of this variable a pointer-to-const. The current type of ""stream"" is ""struct i2s_esp32_stream *""."
+AZHFJ9fMTlwiQl6exDGR,c:S3776,Refactor this function to reduce its Cognitive Complexity from 34 to the 25 allowed.
+AZHFKHBpTlwiQl6exP8u,c:S954,"Move all #include directives to the very top of the file, before any code."
+AZHFKHBpTlwiQl6exP8x,c:S1659,Define each identifier in a dedicated statement.
+AZHFKD7DTlwiQl6exMIm,c:S1103,"Remove the misleading ""//"" characters."
+AZHFKD7DTlwiQl6exMIn,c:S1103,"Remove the misleading ""//"" characters."
+AZHFKD7DTlwiQl6exMIo,c:S1103,"Remove the misleading ""//"" characters."
+AZHFJ9UiTlwiQl6exC_t,c:S954,Move this #include directive to the top of the file.
+AZHFJ9UiTlwiQl6exC_u,c:S995,"Make the type of this parameter a pointer-to-const. The current type of ""cfg"" is ""audio_dai_cfg_t *""."
+AZHFJ9UiTlwiQl6exC_6,c:S1854,Value stored to 'word_size' during its initialization is never read
+AZHFJ9UiTlwiQl6exC_v,c:S1110,Remove these redundant parentheses.
+AZHFJ9UiTlwiQl6exC_w,c:S1110,Remove these redundant parentheses.
+AZHFJ9UiTlwiQl6exC_x,c:S1905,Remove this redundant cast.
+AZHFJ9UiTlwiQl6exC_y,c:S2234,Parameters have the same names but not the same order as the method arguments.
+AZHFJ9UiTlwiQl6exC_z,c:S2234,Parameters have the same names but not the same order as the method arguments.
+AZHFJ9UiTlwiQl6exC_0,c:S995,"Make the type of this parameter a pointer-to-const. The current type of ""cfg"" is ""audio_dai_cfg_t *""."
+AZHFJ9UiTlwiQl6exC_1,c:S1110,Remove these redundant parentheses.
+AZHFJ9UiTlwiQl6exC_9,c:S125,Remove the commented out code.
+AZHFJ9UiTlwiQl6exC_3,c:S1172,"Remove the unused parameter ""dev""."
+AZHFJ9UiTlwiQl6exC_2,c:S1186,"Add a nested comment explaining why this method is empty, or complete the implementation."
+AZHFJ9UiTlwiQl6exC_5,c:S1172,"Remove the unused parameter ""dev""."
+AZHFJ9UiTlwiQl6exC_4,c:S1186,"Add a nested comment explaining why this method is empty, or complete the implementation."
+AZHFKE0pTlwiQl6exM39,c:S995,"Make the type of this parameter a pointer-to-const. The current type of ""config"" is ""struct i2s_config *""."
+AZHFKE0pTlwiQl6exM3-,c:S3776,Refactor this function to reduce its Cognitive Complexity from 31 to the 25 allowed.
+AZHFKE0pTlwiQl6exM4C,c:S924,"Reduce the number of nested ""break"" statements from 2 to 1 authorized."
+AZHFKE0pTlwiQl6exM3_,c:S134,Refactor this code to not nest more than 3 if|for|do|while|switch statements.
+AZHFKE0pTlwiQl6exM4A,c:S134,Refactor this code to not nest more than 3 if|for|do|while|switch statements.
+AZHFJ9qLTlwiQl6exDM0,c:S995,"Make the type of this parameter a pointer-to-const. The current type of ""p3"" is ""void *""."
+AZHFJ9qLTlwiQl6exDMw,c:S1172,"Remove the unused parameter ""p2""."
+AZHFJ9qLTlwiQl6exDMx,c:S1172,"Remove the unused parameter ""p3""."
+AZHFJ9qLTlwiQl6exDMy,c:S995,"Make the type of this parameter a pointer-to-const. The current type of ""p1"" is ""void *""."
+AZHFJ9qLTlwiQl6exDMz,c:S995,"Make the type of this parameter a pointer-to-const. The current type of ""p2"" is ""void *""."
+AZHFKG0hTlwiQl6exPtf,c:S954,Move these 2 #include directives to the top of the file.
+AZHFKG0hTlwiQl6exPtg,c:S1172,"Remove the unused parameter ""attr""."
+AZHFKG0hTlwiQl6exPth,c:S1172,"Remove the unused parameter ""conn""."
+AZHFKG0hTlwiQl6exPti,c:S1172,"Remove the unused parameter ""attr""."
+AZHFKG0hTlwiQl6exPtk,c:S995,"Make the type of this parameter a pointer-to-const. The current type of ""conn"" is ""struct bt_conn *""."
+AZHFKG0hTlwiQl6exPtj,c:S1172,"Remove the unused parameter ""flags""."
+AZHFJ_3-TlwiQl6exE6z,c:S1066,"Merge this ""if"" statement with the enclosing one."
+AZHFJ_RrTlwiQl6exEXk,c:S924,"Reduce the number of nested ""goto"" statements from 3 to 1 authorized."
+AZHFJ_RrTlwiQl6exEXl,c:S924,"Reduce the number of nested ""goto"" statements from 2 to 1 authorized."
+AZHFJ_RrTlwiQl6exEXn,c:S924,"Reduce the number of nested ""goto"" statements from 2 to 1 authorized."
+AZHFJ8DeTlwiQl6exCUT,c:S1172,"Remove the unused parameter ""chan""."
+AZHFJ8DRTlwiQl6exCUN,c:S1172,"Remove the unused parameter ""chan""."
+AZHFJ8DRTlwiQl6exCUO,c:S5350,"Make the type of this variable a pointer-to-const. The current type of ""data"" is ""struct jc42_data *""."
+AZHFJ8DRTlwiQl6exCUP,c:S1172,"Remove the unused parameter ""dev""."
+AZHFJ8DRTlwiQl6exCUQ,c:S5350,"Make the type of this variable a pointer-to-const. The current type of ""data"" is ""struct jc42_data *""."
+AZHFJ8DRTlwiQl6exCUR,c:S995,"Make the type of this parameter a pointer-to-const. The current type of ""p2"" is ""void *""."
+AZHFJ8DRTlwiQl6exCUS,c:S995,"Make the type of this parameter a pointer-to-const. The current type of ""p3"" is ""void *""."
+AZHFKIotTlwiQl6exRLF,c:S3776,Refactor this function to reduce its Cognitive Complexity from 71 to the 25 allowed.
+AZHFKIotTlwiQl6exRLM,c:S3776,Refactor this function to reduce its Cognitive Complexity from 110 to the 25 allowed.
+AZHFKIpITlwiQl6exRLp,c:S954,"Move all #include directives to the very top of the file, before any code."
+AZHFKIpITlwiQl6exRLq,c:S1172,"Remove the unused parameter ""ctx""."
+AZHFKIpITlwiQl6exRLr,c:S995,"Make the type of this parameter a pointer-to-const. The current type of ""ctx"" is ""void *""."
+AZHFKIpITlwiQl6exRLs,c:S1172,"Remove the unused parameter ""timeout_ctx""."
+AZHFKIpITlwiQl6exRLt,c:S995,"Make the type of this parameter a pointer-to-const. The current type of ""timeout_ctx"" is ""void *""."
+AZHFKIpITlwiQl6exRL0,c:S1659,Define each identifier in a dedicated statement.
+AZHFKIpITlwiQl6exRL2,c:S1659,Define each identifier in a dedicated statement.
+AZHFKFMUTlwiQl6exNP0,c:S3776,Refactor this function to reduce its Cognitive Complexity from 73 to the 25 allowed.
+AZHFKErtTlwiQl6exMzC,c:S1659,Define each identifier in a dedicated statement.
+AZHFKABVTlwiQl6exE9T,c:S1066,"Merge this ""if"" statement with the enclosing one."
+AZHFKGmwTlwiQl6exPab,c:S995,"Make the type of this parameter a pointer-to-const. The current type of ""groups"" is ""unsigned short *""."
+AZHFJ9OrTlwiQl6exC8a,c:S1659,Define each identifier in a dedicated statement.
+AZHFJ9TgTlwiQl6exC-l,c:S1116,"Modify the macro definition so that it needs to be followed by a semicolon, or remove this empty statement."
+AZHFJ-8WTlwiQl6exEGb,c:S3776,Refactor this function to reduce its Cognitive Complexity from 28 to the 25 allowed.
+AZHFKGgeTlwiQl6exPQ2,c:S1066,"Merge this ""if"" statement with the enclosing one."
+AZHFKAAGTlwiQl6exE88,c:S954,Move these 2 #include directives to the top of the file.
+AZHFKAAATlwiQl6exE87,c:S954,Move these 2 #include directives to the top of the file.
+AZHFJ__5TlwiQl6exE86,c:S954,Move these 2 #include directives to the top of the file.
+AZHFJ__GTlwiQl6exE8z,c:S954,Move these 2 #include directives to the top of the file.
+AZHFJ7XqTlwiQl6exCAP,c:S1905,Remove this redundant cast.
+AZHFJ7QJTlwiQl6exB6s,c:S1905,Remove this redundant cast.
+AZHFJ7SrTlwiQl6exB8X,c:S1905,Remove this redundant cast.
+AZHFJ-HsTlwiQl6exDee,c:S995,"Make the type of this parameter a pointer-to-const. The current type of ""cfg"" is ""struct udc_ep_config *const""."
+AZHFJ-HsTlwiQl6exDef,c:S3776,Refactor this function to reduce its Cognitive Complexity from 39 to the 25 allowed.
+AZHFJ-HsTlwiQl6exDe8,c:S1854,Value stored to 'pktcnt' is never read
+AZHFJ-HsTlwiQl6exDe9,c:S1854,Value stored to 'pktcnt' is never read
+AZHFJ-HsTlwiQl6exDeq,c:S3458,"Remove this redundant ""case"" clause."
+AZHFJ-HsTlwiQl6exDes,c:S5350,"Make the type of this variable a pointer-to-const. The current type of ""priv"" is ""struct udc_dwc2_data *const""."
+AZHFJ-HsTlwiQl6exDer,c:S134,Refactor this code to not nest more than 3 if|for|do|while|switch statements.
+AZHFJ-HsTlwiQl6exDeu,c:S5350,"Make the type of this variable a pointer-to-const. The current type of ""priv"" is ""struct udc_dwc2_data *const""."
+AZHFJ-HsTlwiQl6exDet,c:S134,Refactor this code to not nest more than 3 if|for|do|while|switch statements.
+AZHFKFNITlwiQl6exNR2,c:S1172,"Remove the unused parameter ""mgmt_request""."
+AZHFKDXITlwiQl6exIpK,c:S954,Move this #include directive to the top of the file.
+AZHFKBgBTlwiQl6exGVW,c:S995,"Make the type of this parameter a pointer-to-const. The current type of ""f"" is ""void *""."
+AZHFKBgBTlwiQl6exGVX,c:S5350,"Make the type of this variable a pointer-to-const. The current type of ""fixture"" is ""struct cap_initiator_test_unicast_start_fixture *""."
+AZHFKBgZTlwiQl6exGVq,c:S1172,"Remove the unused parameter ""stream""."
+AZHFKBgZTlwiQl6exGVr,c:S995,"Make the type of this parameter a pointer-to-const. The current type of ""stream"" is ""struct bt_bap_stream *""."
+AZHFJ9kaTlwiQl6exDJe,c:S1172,"Remove the unused parameter ""dev""."
+AZHFJ9kaTlwiQl6exDJi,c:S1172,"Remove the unused parameter ""dev""."
+AZHFJ9kaTlwiQl6exDJj,c:S1172,"Remove the unused parameter ""dev""."
+AZHFJ9kaTlwiQl6exDJk,c:S1172,"Remove the unused parameter ""dev""."
+AZHFJ9kaTlwiQl6exDJl,c:S1172,"Remove the unused parameter ""dev""."
+AZHFJ9kaTlwiQl6exDJn,c:S1172,"Remove the unused parameter ""dev""."
+AZHFJ9kaTlwiQl6exDJp,c:S3776,Refactor this function to reduce its Cognitive Complexity from 32 to the 25 allowed.
+AZHFKHx2TlwiQl6exQjV,c:S3776,Refactor this function to reduce its Cognitive Complexity from 28 to the 25 allowed.
+AZHFKHx2TlwiQl6exQjW,c:S134,Refactor this code to not nest more than 3 if|for|do|while|switch statements.
+AZHFKHx2TlwiQl6exQjQ,c:S1135,"Complete the task associated to this ""TODO"" comment."
+AZHFJ_KMTlwiQl6exESZ,c:S5350,"Make the type of this variable a pointer-to-const. The current type of ""data"" is ""struct input_kbd_matrix_common_data *""."
+AZHFJ_KMTlwiQl6exESa,c:S1116,Remove this empty statement.
+AZHFKBKyTlwiQl6exGA-,c:S1172,"Remove the unused parameter ""arg1""."
+AZHFKBKyTlwiQl6exGA_,c:S1172,"Remove the unused parameter ""arg2""."
+AZHFKBKyTlwiQl6exGBA,c:S1172,"Remove the unused parameter ""arg3""."
+AZHFKBKyTlwiQl6exGBB,c:S995,"Make the type of this parameter a pointer-to-const. The current type of ""arg1"" is ""void *""."
+AZHFKBKyTlwiQl6exGBC,c:S995,"Make the type of this parameter a pointer-to-const. The current type of ""arg2"" is ""void *""."
+AZHFKBKyTlwiQl6exGBD,c:S995,"Make the type of this parameter a pointer-to-const. The current type of ""arg3"" is ""void *""."
+AZHFKBKyTlwiQl6exGBE,c:S108,"Fill this compound statement, remove it, or add a nested comment explaining why it is empty."
+AZHFKHsSTlwiQl6exQf-,c:S886,Refactor this loop so that it is less error-prone.
+AZHFKHksTlwiQl6exQbb,c:S924,"Reduce the number of nested ""break"" statements from 4 to 1 authorized."
+AZHFKHksTlwiQl6exQbc,c:S1172,"Remove the unused parameter ""args""."
+AZHFKF6OTlwiQl6exOI6,c:S3776,Refactor this function to reduce its Cognitive Complexity from 107 to the 25 allowed.
+AZHFKF6OTlwiQl6exOI7,c:S134,Refactor this code to not nest more than 3 if|for|do|while|switch statements.
+AZHFKF4OTlwiQl6exOHD,c:S3776,Refactor this function to reduce its Cognitive Complexity from 40 to the 25 allowed.
+AZHFKF4OTlwiQl6exOHG,c:S3776,Refactor this function to reduce its Cognitive Complexity from 54 to the 25 allowed.
+AZHFJ-KGTlwiQl6exDh-,c:S1172,"Remove the unused parameter ""dev""."
+AZHFJ-KGTlwiQl6exDh_,c:S1172,"Remove the unused parameter ""sys""."
+AZHFJ-KGTlwiQl6exDiA,c:S995,"Make the type of this parameter a pointer-to-const. The current type of ""sys"" is ""void *""."
+AZHFJ-KGTlwiQl6exDiB,c:S1172,"Remove the unused parameter ""dev""."
+AZHFJ-KGTlwiQl6exDiC,c:S1172,"Remove the unused parameter ""sys""."
+AZHFJ-KGTlwiQl6exDiD,c:S995,"Make the type of this parameter a pointer-to-const. The current type of ""sys"" is ""void *""."
+AZHFJ-KGTlwiQl6exDiE,c:S1172,"Remove the unused parameter ""sys""."
+AZHFJ-KGTlwiQl6exDiF,c:S995,"Make the type of this parameter a pointer-to-const. The current type of ""sys"" is ""void *""."
+AZHFJ-KGTlwiQl6exDh9,c:S1135,"Complete the task associated to this ""TODO"" comment."
+AZHFJ-NqTlwiQl6exDlE,c:S1172,"Remove the unused parameter ""dev""."
+AZHFJ-NqTlwiQl6exDlF,c:S1172,"Remove the unused parameter ""sys""."
+AZHFJ-NqTlwiQl6exDlG,c:S995,"Make the type of this parameter a pointer-to-const. The current type of ""sys"" is ""void *""."
+AZHFJ-NqTlwiQl6exDlH,c:S1172,"Remove the unused parameter ""dev""."
+AZHFJ-NqTlwiQl6exDlI,c:S1172,"Remove the unused parameter ""sys""."
+AZHFJ-NqTlwiQl6exDlJ,c:S995,"Make the type of this parameter a pointer-to-const. The current type of ""sys"" is ""void *""."
+AZHFJ-NqTlwiQl6exDlK,c:S1172,"Remove the unused parameter ""sys""."
+AZHFJ-NqTlwiQl6exDlL,c:S995,"Make the type of this parameter a pointer-to-const. The current type of ""sys"" is ""void *""."
+AZHFJ-MBTlwiQl6exDjx,c:S1135,"Complete the task associated to this ""TODO"" comment."
+AZHFJ-MBTlwiQl6exDj0,c:S995,"Make the type of this parameter a pointer-to-const. The current type of ""sys"" is ""void *""."
+AZHFJ-MBTlwiQl6exDjy,c:S1172,"Remove the unused parameter ""dev""."
+AZHFJ-MBTlwiQl6exDjz,c:S1172,"Remove the unused parameter ""sys""."
+AZHFJ-MBTlwiQl6exDj1,c:S1172,"Remove the unused parameter ""sys""."
+AZHFJ-MBTlwiQl6exDj2,c:S995,"Make the type of this parameter a pointer-to-const. The current type of ""sys"" is ""void *""."
+AZHFJ-MBTlwiQl6exDj3,c:S5350,"Make the type of this variable a pointer-to-const. The current type of ""data"" is ""struct clock_control_si32_pll_data *""."
+AZHFJ-MBTlwiQl6exDj4,c:S1172,"Remove the unused parameter ""sys""."
+AZHFJ-MBTlwiQl6exDj5,c:S995,"Make the type of this parameter a pointer-to-const. The current type of ""sys"" is ""void *""."
+AZHFJ-MBTlwiQl6exDj6,c:S995,"Make the type of this parameter a pointer-to-const. The current type of ""rate_"" is ""void *""."
+AZHFJ-85TlwiQl6exEGi,c:S108,"Fill this compound statement, remove it, or add a nested comment explaining why it is empty."
+AZHFJ-85TlwiQl6exEGj,c:S108,"Fill this compound statement, remove it, or add a nested comment explaining why it is empty."
+AZHFJ-85TlwiQl6exEGk,c:S108,"Fill this compound statement, remove it, or add a nested comment explaining why it is empty."
+AZHFJ9FSTlwiQl6exC4u,c:S108,"Fill this compound statement, remove it, or add a nested comment explaining why it is empty."
+AZHFJ_27TlwiQl6exExR,python:S112,Replace this generic exception class with a more specific one.
+AZHFJ_27TlwiQl6exExS,python:S112,Replace this generic exception class with a more specific one.
+AZHFJ_27TlwiQl6exExT,python:S112,Replace this generic exception class with a more specific one.
+AZHFJ_27TlwiQl6exExU,python:S112,Replace this generic exception class with a more specific one.
+AZHFJ_27TlwiQl6exExV,python:S3776,Refactor this function to reduce its Cognitive Complexity from 29 to the 15 allowed.
+AZHFJ_27TlwiQl6exExW,python:S112,Replace this generic exception class with a more specific one.
+AZHFJ_27TlwiQl6exExX,python:S112,Replace this generic exception class with a more specific one.
+AZHFJ_27TlwiQl6exExY,python:S112,Replace this generic exception class with a more specific one.
+AZHFJ_27TlwiQl6exExZ,python:S108,Either remove or fill this block of code.
+AZHFJ_27TlwiQl6exExa,python:S112,Replace this generic exception class with a more specific one.
+AZHFJ_27TlwiQl6exExb,python:S108,Either remove or fill this block of code.
+AZHFJ_27TlwiQl6exExc,python:S112,Replace this generic exception class with a more specific one.
+AZHFJ_27TlwiQl6exExd,python:S3776,Refactor this function to reduce its Cognitive Complexity from 27 to the 15 allowed.
+AZHFJ_27TlwiQl6exExe,python:S112,Replace this generic exception class with a more specific one.
+AZHFJ_27TlwiQl6exExf,python:S112,Replace this generic exception class with a more specific one.
+AZHFKEBATlwiQl6exMNa,c:S995,"Make the type of this parameter a pointer-to-const. The current type of ""ctx"" is ""struct feedback_ctx *""."
+AZHFKEBATlwiQl6exMNb,c:S995,"Make the type of this parameter a pointer-to-const. The current type of ""ctx"" is ""struct feedback_ctx *""."
+AZHFKEBATlwiQl6exMNc,c:S995,"Make the type of this parameter a pointer-to-const. The current type of ""ctx"" is ""struct feedback_ctx *""."
+AZHFKEBATlwiQl6exMNd,c:S995,"Make the type of this parameter a pointer-to-const. The current type of ""ctx"" is ""struct feedback_ctx *""."
+AZHFKEBQTlwiQl6exMNi,c:S3646,Declare this variable in a separate statement.
+AZHFKEBQTlwiQl6exMNj,c:S1172,"Remove the unused parameter ""sof_cc""."
+AZHFKEBQTlwiQl6exMNk,c:S995,"Make the type of this parameter a pointer-to-const. The current type of ""ctx"" is ""struct feedback_ctx *""."
+AZHFKEBQTlwiQl6exMNl,c:S995,"Make the type of this parameter a pointer-to-const. The current type of ""ctx"" is ""struct feedback_ctx *""."
+AZHFKEBJTlwiQl6exMNe,c:S1172,"Remove the unused parameter ""dev""."
+AZHFKEBJTlwiQl6exMNf,c:S3776,Refactor this function to reduce its Cognitive Complexity from 34 to the 25 allowed.
+AZHFKEBJTlwiQl6exMNg,c:S1659,Define each identifier in a dedicated statement.
+AZHFKEBJTlwiQl6exMNh,c:S1659,Define each identifier in a dedicated statement.
+AZHFKFyxTlwiQl6exN_d,c:S3776,Refactor this function to reduce its Cognitive Complexity from 89 to the 25 allowed.
+AZHFKFxZTlwiQl6exN81,c:S3776,Refactor this function to reduce its Cognitive Complexity from 94 to the 25 allowed.
+AZHFKFxZTlwiQl6exN83,c:S1066,"Merge this ""if"" statement with the enclosing one."
+AZHFKFrlTlwiQl6exN1T,c:S3776,Refactor this function to reduce its Cognitive Complexity from 64 to the 25 allowed.
+AZHFKFHeTlwiQl6exNLO,c:S3776,Refactor this function to reduce its Cognitive Complexity from 50 to the 25 allowed.
+AZHFJ8sXTlwiQl6exCnW,c:S1135,"Complete the task associated to this ""TODO"" comment."
+AZHFJ9jbTlwiQl6exDJG,c:S1172,"Remove the unused parameter ""img_size""."
+AZHFJ9jbTlwiQl6exDJH,c:S995,"Make the type of this parameter a pointer-to-const. The current type of ""img"" is ""unsigned char *""."
+AZHFJ9jbTlwiQl6exDJI,c:S1659,Define each identifier in a dedicated statement.
+AZHFJ9jbTlwiQl6exDJF,c:S5955,"Declare the variable ""i"" inside the loop."
+AZHFJ9jbTlwiQl6exDJE,c:S959,Remove this #undef directive that undefines a non-existing macro.
+AZHFKHMeTlwiQl6exQHP,c:S1172,"Remove the unused parameter ""group""."
+AZHFKHMeTlwiQl6exQHR,c:S3776,Refactor this function to reduce its Cognitive Complexity from 31 to the 25 allowed.
+AZHFKHMeTlwiQl6exQHS,c:S1301,"Replace this ""switch"" statement by ""if"" statements to increase readability."
